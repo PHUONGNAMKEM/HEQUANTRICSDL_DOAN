@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|d:\\h\u1ECDc t\u1EADp\\ontap_sql\\hqtcsdl_tuan11\\doansql\\dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\appforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\chitiethoadon_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\chitiethoadon_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\nhanvienview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dal\\login_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\login_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dal\\signup_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\signup_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\signup_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\signup_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dto\\signup_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\signup_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dal\\chitiethoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\chitiethoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\login_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\login_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\logout_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\logout_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\chitietkhuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\chitietkhuyenmai_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dal\\logout_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\logout_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\loaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dal\\hanghoa_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A50AA8F-F366-4104-9021-A4036888AF94}|DAL\\DAL.csproj|solutionrelative:dal\\hanghoa_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dto\\hanghoa_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\hanghoa_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dto\\hoadon_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E46C67-8447-4128-93EE-2EA1CC738006}|DTO\\DTO.csproj|solutionrelative:dto\\hoadon_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\bll\\hanghoa_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351F1BF6-CA8E-44F9-A9A1-2107A5BAE487}|BLL\\BLL.csproj|solutionrelative:bll\\hanghoa_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBC7970D-5513-4FA7-95F5-AD6541377E98}|DEAN_SQL\\GUI.csproj|solutionrelative:dean_sql\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietHoaDon_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\ChiTietHoaDon_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietHoaDon_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\ChiTietHoaDon_DAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietHoaDon_DAL.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwFcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:16:07.989Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietHoaDon_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\ChiTietHoaDon_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietHoaDon_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\ChiTietHoaDon_BLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietHoaDon_BLL.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:16:14.421Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CHITIETHOADON.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:16:23.326Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CHITIETHOADON.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\CHITIETHOADON.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\CHITIETHOADON.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\CHITIETHOADON.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:16:19.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HangHoa_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HangHoa_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\HangHoa_DAL.cs",
+              "RelativeToolTip": "DAL\\HangHoa_DAL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:50:20.342Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppForAdmin.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\AppForAdmin.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeToolTip": "DEAN_SQL\\AppForAdmin.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAIA1wN0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:34:15.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienView.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\NhanVienView.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\NhanVienView.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\NhanVienView.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\NhanVienView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:35:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Signup_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Signup_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Signup_BLL.cs",
+              "RelativeToolTip": "BLL\\Signup_BLL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:51:58.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Signup.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeToolTip": "DEAN_SQL\\Signup.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:50:44.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppForAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\AppForAdmin.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\AppForAdmin.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\AppForAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:36:15.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signup_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Signup_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Signup_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Signup_DAL.cs",
+              "RelativeToolTip": "DAL\\Signup_DAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:50:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Signup.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Signup.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Signup.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:50:43.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Login_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Login_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Login_DAL.cs",
+              "RelativeToolTip": "DAL\\Login_DAL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:02:57.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Login.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Login.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Login.cs",
+              "RelativeToolTip": "DEAN_SQL\\Login.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:03:11.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Login.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Login.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Login.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:03:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Signup_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\Signup_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Signup_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\Signup_DTO.cs",
+              "RelativeToolTip": "DTO\\Signup_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:55:03.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Login_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Login_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Login_BLL.cs",
+              "RelativeToolTip": "BLL\\Login_BLL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:27:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Program.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\Program.cs",
+              "RelativeToolTip": "DEAN_SQL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:51:35.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Logout_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Logout_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\Logout_BLL.cs",
+              "RelativeToolTip": "BLL\\Logout_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:36:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\App.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\App.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\App.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:36:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\App.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\App.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\App.cs",
+              "RelativeToolTip": "DEAN_SQL\\App.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:36:29.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logout_DAL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Logout_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Logout_DAL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DAL\\Logout_DAL.cs",
+              "RelativeToolTip": "DAL\\Logout_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:36:54.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietKhuyenMai_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\ChiTietKhuyenMai_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ChiTietKhuyenMai_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\ChiTietKhuyenMai_BLL.cs",
+              "RelativeToolTip": "BLL\\ChiTietKhuyenMai_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:47:09.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoaiHang.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LoaiHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeToolTip": "DEAN_SQL\\LoaiHang.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIA9wD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:39:56.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaiHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\LoaiHang.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\LoaiHang.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\LoaiHang.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\LoaiHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:39:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HoaDon_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\HoaDon_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HoaDon_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\HoaDon_DTO.cs",
+              "RelativeToolTip": "DTO\\HoaDon_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:00:28.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HangHoa_DTO.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\HangHoa_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\HangHoa_DTO.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DTO\\HangHoa_DTO.cs",
+              "RelativeToolTip": "DTO\\HangHoa_DTO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:58:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HangHoa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeToolTip": "DEAN_SQL\\HangHoa.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAwwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:57:29.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DEAN_SQL\\HangHoa.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\DEAN_SQL\\HangHoa.cs [Design]",
+              "RelativeToolTip": "DEAN_SQL\\HangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:57:27.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HangHoa_BLL.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\HangHoa_BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HangHoa_BLL.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\OnTap_SQL\\HQTCSDL_TUAN11\\DoanSQL\\BLL\\HangHoa_BLL.cs",
+              "RelativeToolTip": "BLL\\HangHoa_BLL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:56:31.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

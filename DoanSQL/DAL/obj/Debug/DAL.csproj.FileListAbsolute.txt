@@ -1,0 +1,63 @@
+D:\Học Tập\CN.NET\Doan.net\DAL\bin\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net\DAL\bin\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan.net\DAL\bin\Debug\DTO.dll
+D:\Học Tập\CN.NET\Doan.net\DAL\bin\Debug\DTO.pdb
+D:\Học Tập\CN.NET\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Học Tập\CN.NET\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học Tập\CN.NET\Doan.net\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Học Tập\CN.NET\Doan.net\DAL\obj\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net\DAL\obj\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\bin\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\bin\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\bin\Debug\DTO.dll
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\bin\Debug\DTO.pdb
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\obj\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan\Doan.net\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\bin\Debug\DTO.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\bin\Debug\DTO.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN10\Doan\Doan.net\DAL\obj\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\bin\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\bin\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\bin\Debug\DTO.dll
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\bin\Debug\DTO.pdb
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\obj\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net\Doan.net\DAL\obj\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DAL.pdb
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DTO.dll
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DTO.pdb
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.dll
+D:\Học Tập\CN.NET\Doan.net-github\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DTO.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\bin\Debug\DTO.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN\CongNgheNet_Nhom3_QL_MATKINH\Doan.net\DAL\obj\Debug\DAL.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\bin\Debug\DAL.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\bin\Debug\DAL.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\bin\Debug\DTO.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\bin\Debug\DTO.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\obj\Debug\DAL.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN11\DoanSQL\DAL\obj\Debug\DAL.pdb

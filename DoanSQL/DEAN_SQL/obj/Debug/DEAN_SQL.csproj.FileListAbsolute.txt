@@ -1,0 +1,262 @@
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csprojResolveAssemblyReference.cache
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.Cache
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+C:\Users\PHONG\Documents\Visual Studio 2013\Projects\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csprojResolveAssemblyReference.cache
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.Cache
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+C:\Users\PHONG\Downloads\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.Up2Date
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN05\DEAN_SQL\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Hệ_quản_trị_cơ_sở_dl\HQTCSDL_TUAN07\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+C:\Users\Lenovo\Downloads\File_tài_liệu_HK5\Công nghệ .NET\DOAN_CUOIKY\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe.config
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.exe
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\DEAN_SQL.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.dll
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ClosedXML.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\bin\Debug\ExcelNumberFormat.xml
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.Up2Date
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.exe
+D:\Học Tập\OnTap_SQL\HQTCSDL_TUAN08\DEAN_SQL\DEAN_SQL\obj\Debug\DEAN_SQL.pdb
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.AssemblyReference.cache
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.App.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.AppForAdmin.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETHOADON.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.CHITIETPN.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.HangHoa.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDon.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.HoaDonView.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHang.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.KhachHangView.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.LoaiHang.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.NHACC.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVien.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.NhanVienView.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.PHIEUNHAP.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.dangky.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.Form1.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.Properties.Resources.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.ThongTinNhanVien.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.WorkWithData.resources
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.GenerateResource.cache
+D:\Học Tập\CN.NET\Doan.net\DEAN_SQL\obj\Debug\DEAN_SQL.csproj.CoreCompileInputs.cache
